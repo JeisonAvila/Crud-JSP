@@ -1,0 +1,5 @@
+modelo\usuario.class
+interfaces\crud.class
+confi\Conexion.class
+controlador\Controlador.class
+modelo_dao\Usuario_dao.class
